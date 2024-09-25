@@ -1,4 +1,4 @@
-# React app for recorde work time
+# React app for recording work time
 
 Project created with Vite (TypeScript, React, Tailwindcss, Zuztand)
 
